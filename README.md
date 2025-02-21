@@ -1,4 +1,4 @@
-![banner](https://drive.google.com/file/d/1AZ0lPIv-L1bz83XeeGyzSS2sSE8bR6qr/view?usp=drive_link)
+![banner](https://github.com/Dysmar/Dysmar/blob/main/big_data_analyze1%20copia.jpg?raw=true)
 
 
 # ¡Hola! Soy Dysmar Vidal Romero
